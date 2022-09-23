@@ -1,7 +1,7 @@
-function echoFunction(input) {
+function solve(input) {
     console.log(input.length);
     console.log(input);
 }
 
-echoFunction('Hello, JavaScript!');
-echoFunction('strings are easy');
+solve('Hello, JavaScript!');
+solve('strings are easy');
